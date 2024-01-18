@@ -1,0 +1,61 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css');
+
+#button1{
+    cursor: pointer;
+}
+
+#button2{
+    cursor:default;
+}
+
+#button3{
+    cursor:help;
+}
+
+#button4{
+    cursor:context-menu;
+}
+
+#button5{
+    cursor:crosshair;
+}
+
+#button6{
+    cursor:progress;
+}
+
+#button7{
+    cursor:wait;
+}
+
+#button8{
+    cursor:alias;
+}
+
+#button9{
+    cursor:cell;
+}
+
+#button10{
+    cursor:copy;
+}
+
+#button11{
+    cursor:not-allowed;
+}
+
+#button12{
+    cursor:grab;
+}
+
+#button13{
+    cursor:all-scroll;
+}
+
+#button14{
+    cursor:no-drop;
+}
+
+#button15{
+    cursor:grabbing;
+}
